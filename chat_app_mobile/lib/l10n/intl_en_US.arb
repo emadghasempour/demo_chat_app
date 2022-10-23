@@ -1,0 +1,13 @@
+{
+  "labelUsername": "Username",
+  "labelOK": "OK",
+  "labelRooms": "Rooms",
+  "labelSend": "Send",
+  "labelRoomName": "Room Name",
+  "labelAppName": "Demo Chat",
+  "labelNoRoomAvailable": "There is no room available",
+  "msgYou": "You",
+  "msgNewUserJoined": "{user} joined {room}",
+  "msgUserLeft": "{user} left {room}",
+  "msgYouJoined": "you joined {room}"
+}
